@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dR * | chmod ugo+x *
+ls -dR * | chmod 111 *
